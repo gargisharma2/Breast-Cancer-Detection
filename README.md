@@ -34,7 +34,7 @@ The dataset used is the [Breast Cancer Wisconsin Diagnostic Data Set](https://ar
 
 ## 📊 Results
 
-The best-performing model achieved over **95% accuracy** on the test set, demonstrating the effectiveness of machine learning in medical diagnosis tasks.
+The best-performing model achieved over **87% accuracy** on the test set, demonstrating the effectiveness of machine learning in medical diagnosis tasks.
 
 ## 📎 References
 
