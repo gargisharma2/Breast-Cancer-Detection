@@ -47,7 +47,6 @@ The best-performing model achieved over **95% accuracy** on the test set, demons
 ## 📝 Author
 
 **Gargi Sharma**  
-[LinkedIn](https://www.linkedin.com/in/your-profile) *(Add your actual link here)*
 
 ---
 
